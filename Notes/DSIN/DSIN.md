@@ -15,3 +15,10 @@ session division layer partitions users’ behavior sequence into sessions;
 ![image-20220110155910582](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20220110155910582.png)
 
 ### Multi-head Self-attention
+
+![image-20220112151528167](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20220112151528167.png)
+
+![image-20220112151636862](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20220112151636862.png)
+
+## Session Interest Interacting Layer
+
