@@ -14,6 +14,12 @@ https://arxiv.org/abs/1601.02376
 
 # PNN
 
+这里定义了tensor inner product， 其实就是把矩阵拉直+全连接层
+
+z: 所有embedding
+
+p: embed二姐交互，可以有不同的方法
+
 ![image-20211220161416329](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211220161416329.png)
 
 ![image-20211220161708530](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211220161708530.png)

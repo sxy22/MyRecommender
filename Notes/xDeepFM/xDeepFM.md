@@ -16,6 +16,10 @@
 
 ![image-20211218170322883](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211218170322883.png)
 
+（6）是对向量的加权和，h k-1 和 h0 能交互出h k-1 * m个向量
+
+
+
 ## Combination with Implicit Networks
 
 ![image-20211218170422444](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211218170422444.png)
